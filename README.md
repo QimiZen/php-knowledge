@@ -10,7 +10,8 @@
 
 ### PHP 篇
 
-- [echo、print、print_r、var_dump 区别](./docs/03.PHP/QA.md#echoprintprint_rvar_dump-区别)
-- [单引号和双引号的区别](./docs/03.PHP/QA.md#单引号和双引号的区别)
-- [isset 和 empty 的区别](./docs/03.PHP/QA.md#isset-和-empty-的区别)
-- [static、self、$this 的区别](./docs/03.PHP/QA.md#staticselfthis-的区别)
+- [1. 变量如何定义?如何检查变量是否定义?如何删除一个变量?怎样检测变量是否设置?](./docs/PHP/PHP篇.md#1变量如何定义如何检查变量是否定义如何删除一个变量怎样检测变量是否设置)
+- [2. 什么是可变变量？](./docs/PHP/PHP篇.md#2-什么是可变变量)
+- [4. 引用和拷贝有什么区别？](./docs/PHP/PHP篇.md#4-引用和拷贝有什么区别)
+- [5. php中变量有哪些基本数据类型？](./docs/PHP/PHP篇.md#5-php中变量有哪些基本数据类型)
+- [6. 其它类型转换为boolean类型时，哪些被认为是false？](./docs/PHP/PHP篇.md#6-其它类型转换为boolean类型时哪些被认为是false)
