@@ -15,3 +15,7 @@
 - [引用和拷贝有什么区别？](./docs/PHP/PHP篇.md#4-引用和拷贝有什么区别)
 - [php中变量有哪些基本数据类型？](./docs/PHP/PHP篇.md#5-php中变量有哪些基本数据类型)
 - [其它类型转换为boolean类型时，哪些被认为是false？](./docs/PHP/PHP篇.md#6-其它类型转换为boolean类型时哪些被认为是false)
+
+### 算法篇
+
+- [常见排序算法](./docs/PHP/PHP篇.md)
